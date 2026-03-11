@@ -17,12 +17,11 @@ Sistema de gestión administrativa con geolocalización desarrollado para la cla
 - 🔗 **Consumo de API REST** para datos dinámicos
 
 ## 📁 Estructura del Proyecto
-McChicken/
-├── McChicken_Modelo/     # Entidades y modelado de datos
-├── McChicken_Core/       # Conexión a base de datos y controllers
-├── McChicken_REST/       # Servicios REST/API
-└── McChicken_Frontend/   # Interfaz de usuario
-
+                    
+   ├── 📁 McChicken/ Frontend - Interfaz de usuario    
+   ├── 📁 mcchiken_modelo/ Entidades y modelado de datos  
+   ├── 📁 mcchicken_core/ Conexión a base de datos y controladores
+   ├── 📁 mcchiken-rest/ Servicios REST/API
 
 ## 🛠️ Cómo ejecutar
 
